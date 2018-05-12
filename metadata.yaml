@@ -1,0 +1,30 @@
+_repo: Bright-Ideas-for-Entertaining_42863
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42863-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Linscott, Herbert B., Mrs.
+    aliases:
+    - Linscott, Mrs. Herbert B.
+    - Richmond, Hilda
+    - Linscott, Hilda Bates
+    gutenberg_agent_id: '41894'
+    url: http://www.gutenberg.org/2009/agents/41894
+description: ''
+gutenberg_issued: '2013-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42863'
+  lccn: 05026966
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Entertaining'
+- !lcsh 'Amusements'
+title: Bright Ideas for Entertaining
+url: http://www.gutenberg.org/ebooks/42863
